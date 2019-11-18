@@ -7,7 +7,7 @@ import os
 
 testFiles = ["KristenAndSara_720p.y4m", "720p5994_stockholm_ter.y4m"]
 
-qpValuesToTest = [10, 20, 30, 40, 50]
+qpValuesToTest = [10, 20, 30, 40, 50 , 60, 70]
 
 qpValuesToTestEncoding = [30, 40, 50]
 
